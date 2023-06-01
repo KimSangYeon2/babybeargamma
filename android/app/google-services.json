@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "689851407543",
+    "firebase_url": "https://babybear-d6bcb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "babybear-d6bcb",
+    "storage_bucket": "babybear-d6bcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689851407543:android:08f9495c9420e45c88c132",
+        "android_client_info": {
+          "package_name": "com.example.babybear"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfnkEcowJ4LiRwr6Cq3iBH0C1GbM2L_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689851407543:android:f3988e889631e24888c132",
+        "android_client_info": {
+          "package_name": "com.example.babybearbeta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfnkEcowJ4LiRwr6Cq3iBH0C1GbM2L_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689851407543:android:65840309935942eb88c132",
+        "android_client_info": {
+          "package_name": "com.example.babybeargamma"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfnkEcowJ4LiRwr6Cq3iBH0C1GbM2L_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
